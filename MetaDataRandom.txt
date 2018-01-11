@@ -1,0 +1,9 @@
+Field Name = Roll No
+Field DataType = Character
+Field Size = 7
+Field Name = Name
+Field DataType = Character
+Field Size = 20
+Field Name = Marks
+Field DataType = Integer
+Field Size = 4
